@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Source: https://github.com/charmbracelet/soft-serve
 Upstream-Name: soft-serve
-Upstream-Contact: TODO
+Upstream-Contact: https://github.com/charmbracelet
 
 Files: *
 Copyright: 2021 Charm
